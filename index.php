@@ -1,11 +1,11 @@
 <?php
-include('gen_data.php');
+include('inc/gen_data.php');
 ?>
 <!DOCTYPE html>
 <html>
   <head>
     <title>Data Generator</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="inc/style.css">
   </head>
   <body>
 
