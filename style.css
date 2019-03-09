@@ -1,0 +1,41 @@
+body {
+  background-color: #FFDAB9;
+  color: #000;
+
+
+}
+
+#form {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  right: 10%;
+  width: 80%;
+
+
+}
+
+.data {
+    margin-left: 10px;
+    margin-bottom: 5px;
+    positon: static;
+    top: 30%;
+    left: 30%;
+}
+
+#data {
+  postion: relative;
+  margin-left: 25px;
+  margin-top: 15px;
+  padding-left: 25px;
+  padding-bottom: 25px;
+  padding-top: 5px;
+
+  top: 20px;
+  left: 30%;
+  width: 90%;
+  background-color: #FFEFD5;
+  color: #191970;
+  line-height: 1.4em;
+
+}
